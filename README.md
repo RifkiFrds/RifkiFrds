@@ -40,6 +40,8 @@ I'm a Front-End Developer and Student at Universitas Muhammadiyah Tangerang.
 ## 📊 GitHub Stats
 ![Rifki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RifkiFrds&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
+## ![Visitor](https://count.getloli.com/get/@RifkiFrds-RifkiFrds?theme=moebooru)
+
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhamad-rifki-firdaus-27a925317)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=flat&logo=instagram)](https://www.instagram.com/frdskii_/)
