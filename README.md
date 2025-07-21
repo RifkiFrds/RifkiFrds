@@ -1,5 +1,5 @@
-# Hi, I'm Rifki! 👋  
-I'm a Front-End Developer and Student at Universitas Muhammadiyah Tangerang.
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Rifki! 👋 </h1>
+<h3 align="centerI'm a Front-End Developer and Student Computer Science at Universitas Muhammadiyah Tangerang.</h3>
 
 ## 🔧 Tech Stack
 
